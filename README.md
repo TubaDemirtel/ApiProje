@@ -2,6 +2,7 @@
 Demo RestAPI Çalışması
 
 ## Yapılan İşlemler
+
 * GitHub repo oluşturuldu.
 * Bilgisayardaki klasör repoya bağlandı.
 * Api dosyası repoya gönderildi.
